@@ -3,8 +3,5 @@ hello git ! hello world!
 hello git ! hello world!
 hello git ! hello world!
 hello git ! hello world!
-<<<<<<< HEAD
-=======
-sdjk        xxxxxx   
->>>>>>> hot-fix
+git git git git 
 
